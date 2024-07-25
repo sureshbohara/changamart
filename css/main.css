@@ -222,7 +222,7 @@ button:focus {
 	}
 
 	.inner-section {
-		margin-bottom: 60px
+		margin-bottom: 20px
 	}
 
 	.section-heading {
@@ -7387,6 +7387,9 @@ tbody tr td:last-child {
 	border:1px solid #ccc;
 	padding: 20px;
 }
+
+
+
 
 @media only screen and (max-width: 480px) {
     .deal {
