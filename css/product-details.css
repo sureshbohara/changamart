@@ -652,8 +652,9 @@
 	}
 
 	.btn {
-        font-size: 13px;
-        padding: 10px 4px;
+        font-size: 11px;
+        padding: 9px 9px;
+        margin-bottom: 15px;
     }
 
 }
