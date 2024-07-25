@@ -657,6 +657,10 @@
         margin-bottom: 15px;
     }
 
+    .gap-1 {
+     gap: 18px;
+    }
+
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
