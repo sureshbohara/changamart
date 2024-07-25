@@ -3043,7 +3043,7 @@ tbody tr td:last-child {
 
 @media (max-width: 575px) {
 	.brand-wrap {
-		width: 200px
+		width: 160px
 	}
 }
 
@@ -7433,6 +7433,20 @@ tbody tr td:last-child {
      }
      .hiddex-xs{
      	display: none;
+     }
+
+     .news-text h2 {
+      font-size: 18px;
+      color: var(--white);
+      margin-bottom: 0px;
+    }
+
+    .news-text p {
+      font-size: 14px;
+     }
+
+    .news-form button span{
+     	width: 250px;
      }
 
     }
