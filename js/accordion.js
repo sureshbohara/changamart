@@ -66,10 +66,10 @@ jQuery(document).ready(function($){
             autoplayHoverPause: true,
             responsive: {
                 0: {
-                    items: 3
+                    items: 2
                 },
                 768: {
-                    items: 3
+                    items: 2
                 },
                 992: {
                     items: 7
