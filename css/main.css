@@ -4042,7 +4042,6 @@ tbody tr td:last-child {
 }
 
 .header-content {
-	padding: 10px 0px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -4060,12 +4059,12 @@ tbody tr td:last-child {
 }
 
 .header-logo {
-	margin-right: 50px
+	position: relative;
 }
 
 .header-logo img {
-	width: auto;
-	height: 60px;
+	width: 75%;
+	height: 100%;
 	transition: all linear .3s;
 	-webkit-transition: all linear .3s;
 	-moz-transition: all linear .3s;
@@ -4251,8 +4250,8 @@ tbody tr td:last-child {
 }
 
 .header-media-group a img {
-	width: auto;
-	height: 45px
+	width: 100%;
+	height: 60px
 }
 
 .header-user img,
@@ -4288,7 +4287,6 @@ tbody tr td:last-child {
 
 @media (max-width: 991px) {
 	.header-content {
-		padding: 10px 0px;
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
 		-ms-flex-direction: column;
